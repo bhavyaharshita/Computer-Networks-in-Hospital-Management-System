@@ -1,5 +1,9 @@
 # Computer-Networks-in-Hospital-Management-System
 
+
+
+
+
 ## Table of Contents
 
 1. Introduction to Hospital Networks  
@@ -19,3 +23,4 @@ Hospital networks facilitate communication, data sharing, and patient care by pr
 Managing large-scale hospital network infrastructure involves handling bandwidth, redundancy, and scalability to support critical medical functions. Security and access control measures, such as firewalls, encryption, and role-based access, protect sensitive patient data and ensure compliance with regulations. Servers and data centers store and process vast amounts of medical records, ensuring quick access to critical information. Cloud computing and virtualization help hospitals improve data storage, accessibility, and scalability while reducing operational costs.  
 
 Network maintenance and troubleshooting strategies ensure the reliability and efficiency of hospital networks, preventing downtime that could impact patient care. Future trends in hospital networking include AI-driven network management, 5G integration, and blockchain for secure medical data exchange, driving innovation and efficiency in healthcare IT.
+
