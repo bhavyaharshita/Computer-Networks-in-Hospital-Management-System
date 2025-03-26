@@ -1,7 +1,7 @@
 # Computer-Networks-in-Hospital-Management-System
 
 
-  ![Alt Text](hms/hms.png)
+  ![Alt Text](hms.png)
 
 
 
